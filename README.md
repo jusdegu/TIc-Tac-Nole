@@ -2,11 +2,16 @@ Tic-Tac-Nole
 
 Header from MainActivity.java:
 -----------------------------------------------------------------------------------------------------
-Name: Justin De Guzman 
-CS Username: deguzman 
-Project: Tic Tac Nole 
-Created: 27 June 2018 
-Last modified:5 July 2018 
+Name: Justin De Guzman
+
+CS Username: deguzman
+
+Project: Tic Tac Nole
+
+Created: 27 June 2018
+
+Last modified:5 July 2018
+
 
 Description:
  For this project, various if-else and switch statements were used for the execution of control.
@@ -38,6 +43,7 @@ Description:
   APK is a simple tic-tac-toe app with not-so-smart-AI. Two game modes can be selected: player-vs-player and player-vs-computer.
   
   In lieu of the basic X and Os, I opted to use custom icons:
+  
   ![Grapefruit](https://github.com/jusdegu/Tic-Tac-Nole/app/src/main/res/drawable/grape.png)
   
   ![Eggplant](https://github.com/jusdegu/Tic-Tac-Nole/app/src/main/res/drawable/egg.png)
