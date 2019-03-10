@@ -54,3 +54,12 @@ Description:
   Eggplant:
   
   ![Eggplant](/app/src/main/res/drawable/egg.png)
+  
+  Additional images included in the APK are sliced versions of the above fruits, which only appear upon three consecutive fruits in a row/diagonal (e.g. when one fruit wins).
+  
+  
+  ![Sliced-Grapefruit](/app/src/main/res/drawable/grapewin.jpg)
+  
+  
+  
+  ![Sliced-Eggplant](/app/src/main/res/drawable/eggwin.jpg)
