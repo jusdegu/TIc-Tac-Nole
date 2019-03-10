@@ -1,6 +1,7 @@
 Tic-Tac-Nole
 
 Header from MainActivity.java:
+
 -----------------------------------------------------------------------------------------------------
 Name: Justin De Guzman
 
@@ -45,6 +46,8 @@ Description:
   
   In lieu of the basic X and Os, I opted to use custom icons:
   
-  ![Grapefruit](https://github.com/jusdegu/Tic-Tac-Nole/app/src/main/res/drawable/grape.png)
+  ![Grapefruit]
+  (/app/src/main/res/drawable/grape.png)
   
-  ![Eggplant](https://github.com/jusdegu/Tic-Tac-Nole/app/src/main/res/drawable/egg.png)
+  ![Eggplant]
+  (/app/src/main/res/drawable/egg.png)
