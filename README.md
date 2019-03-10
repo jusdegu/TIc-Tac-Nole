@@ -46,8 +46,6 @@ Description:
   
   In lieu of the basic X and Os, I opted to use custom icons:
   
-  ![Grapefruit]
-  (/app/src/main/res/drawable/grape.png)
+  ![Grapefruit](/app/src/main/res/drawable/grape.png)
   
-  ![Eggplant]
-  (/app/src/main/res/drawable/egg.png)
+  ![Eggplant](/app/src/main/res/drawable/egg.png)
