@@ -2,5 +2,4 @@ Tic-Tac-Nole
 
 Mobile Programming Final Project
 
-Android Studio
-Java
+Tic-tac-toe app implemented using Java in Android Studio 3.1.3. Successfully emulates on Pixel API 26 and 27.
