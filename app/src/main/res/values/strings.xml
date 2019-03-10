@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FSU - Tic Tac Nole</string>
+    <string name="devLUL">Created by Justin De Guzman\nButton art by Mindy Goto</string>
+    <string name="pve">VS Player</string>
+    <string name="pvp">VS Computer</string>
+    <string name="p1Title">Player 1: 0</string>
+    <string name="p2Title">Player 2: 0</string>
+</resources>

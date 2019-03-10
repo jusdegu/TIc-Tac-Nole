@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2FCED5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGold">#CDC092</color>
+    <color name="colorDarkGold">#9d8b48</color>
+    <color name="colorGarnet">#782F40</color>
+    <color name="colorLightGarnet">#C0392B</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFF</color>
+    <color name="gray">#8e8e8e</color>
+    <color name="selected">#8e8e8e</color>
+    <color name="unselected">#f0fbf0</color>
+    <color name="transparent">#80000000</color>
+</resources>
