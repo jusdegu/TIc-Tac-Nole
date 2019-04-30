@@ -25,7 +25,7 @@
 *                                                                                                  *
 * Disclaimer: If eventual robot takeover does occur, I am not to be held responsible.              *
 *                                                                                                  *
-* P.S. blame Boston Dynamics: http://gph.is/1TDxwIq                                                *
+* P.S. blame Boston Dynamics: https://media.giphy.com/media/xT9DPp7lYtKlM0QzII/giphy.gif                                                *
 *                                                                                                  *
 \************************************************************************************************ */
 
